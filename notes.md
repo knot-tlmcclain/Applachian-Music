@@ -1,22 +1,23 @@
 ## Artists to focus 
 ### Doc Watson 
-	* North Carolina
+* North Carolina
 
 ### Jean Ritchie
-	* Western Kentucky
-	* [Jubilee](https://www.youtube.com/watch?v=5v_jhm0hMZY)
+* Western Kentucky
+* [Jubilee](https://www.youtube.com/watch?v=5v_jhm0hMZY)
+
 ### Dock Boggs
-	* [Bright Sunny South](https://www.youtube.com/watch?v=5eNp-luPphc)
+* [Bright Sunny South](https://www.youtube.com/watch?v=5eNp-luPphc)
 
 ### Roscoe Holcomb
-	* Kentucky
-	* CLAWHAMMER
-	* [Across the Rocky Mountains](https://www.youtube.com/watch?v=yDG_TEcr89g)
-	* [Smithsonian Folkways - Across the Rocky Mountains](https://www.youtube.com/watch?v=M_NMY7M9rt4)
-	* Holcomb was the inspiration for the term "high, lonesome sound", coined by folklorist and friend John Cohen.  - wikipedia
-	* [Pete Seeger - Little Birdy](https://www.youtube.com/watch?v=-wGgvbHcgyc)
+* Kentucky
+* CLAWHAMMER
+* [Across the Rocky Mountains](https://www.youtube.com/watch?v=yDG_TEcr89g)
+* [Smithsonian Folkways - Across the Rocky Mountains](https://www.youtube.com/watch?v=M_NMY7M9rt4)
+* Holcomb was the inspiration for the term "high, lonesome sound", coined by folklorist and friend John Cohen.  - wikipedia
+* [Pete Seeger - Little Birdy](https://www.youtube.com/watch?v=-wGgvbHcgyc)
 
-Roscoe Holcomb --> influencer --> Bob Dylan
+> Roscoe Holcomb --> influencer --> Bob Dylan
 
 > "nasal style informed by the Old Regular Baptist vocal tradition"
 
@@ -32,50 +33,50 @@ Gapped Scale -
 
 
 ### Clarence "Tom" Ashley
-	* Tennessee
-	* CLAWHAMMER
-	* 1929 - Carolina Tar Heels 
-		- Great Depression
+* Tennessee
+* CLAWHAMMER
+* 1929 - Carolina Tar Heels 
+	- Great Depression
 
-	* [East Virginia Blues](https://www.youtube.com/watch?v=q3pS-ya0pY0)
-	* [Little Saddie](https://www.youtube.com/watch?v=uXGAj1e3SdE)
-	* [Naomi Wise](https://www.youtube.com/watch?v=Xwfc5amsr_k)
-	   1808 Murder of Naomi Wise - Randleman, North Carolina
-	* Doc Watson - Omie Wise
+* [East Virginia Blues](https://www.youtube.com/watch?v=q3pS-ya0pY0)
+* [Little Saddie](https://www.youtube.com/watch?v=uXGAj1e3SdE)
+* [Naomi Wise](https://www.youtube.com/watch?v=Xwfc5amsr_k)
+   1808 Murder of Naomi Wise - Randleman, North Carolina
+* Doc Watson - Omie Wise
 
 
-1960, Ralph Rinzler
+### 1960, Ralph Rinzler
 
-Clarence Ashley --> influencer --> Jerry Garcia
+> Clarence Ashley --> influencer --> Jerry Garcia
 
 ### Merle Travis
-	* Kentucky -  Muhlenberg County, Kentucky
-		* Coal country
-		* Sixteen Tons, Dark as Dungeon, Paradise,
-		  Nine Pound Hammer
-	* Country - Western 
-	* Travis Picking - Guitar
+* Kentucky -  Muhlenberg County, Kentucky
+	* Coal country
+	* Sixteen Tons, Dark as Dungeon, Paradise,
+	  Nine Pound Hammer
+* Country - Western 
+* Travis Picking - Guitar
 
-Merle Travis --> influencer --> Chet Atkins
+> Merle Travis --> influencer --> Chet Atkins
 
 ### Earl Scruggs
-	* Scruggs style picking  - Banjo
+* Scruggs style picking  - Banjo
 Earl Eugene Scruggs was an American musician noted for popularizing a three-finger banjo picking style, now called "Scruggs style"
 
-	* North Carolina 
-	* Bill Monroe 
-	* Father of Bluegrass Banjo
-	1945 - Joins Bill Monroe
-		replaces - David "Stringbean" Akeman 
-		DEFINES BLUEGRASS
-	 - Bill Monroe (vocals/mandolin)
-	 - Lester Flatt (guitar/vocals)
-	 - Earl Scruggs (banjo)
-	 - Chubby Wise (fiddle)
-	 - Howard Watts (stage name Cedric Rainwater) on bass
+* North Carolina 
+* Bill Monroe 
+* Father of Bluegrass Banjo
+1945 - Joins Bill Monroe
+	replaces - David "Stringbean" Akeman 
+	DEFINES BLUEGRASS
+ - Bill Monroe (vocals/mandolin)
+ - Lester Flatt (guitar/vocals)
+ - Earl Scruggs (banjo)
+ - Chubby Wise (fiddle)
+ - Howard Watts (stage name Cedric Rainwater) on bass
 
-	1948 - Leaves - Bill Monroe and Bluegrass Boys
-	1949 - 1950 :: Flatt and Scruggs
+1948 - Leaves - Bill Monroe and Bluegrass Boys
+1949 - 1950 :: Flatt and Scruggs
 
 > 'Earl Scruggs did not invent three-finger banjo playing; in fact, he said the three-finger style was the most common way to play the five-string banjo in his hometown in western North Carolina.[8] An early influence was a local banjoist, DeWitt "Snuffy" Jenkins, who plucked in a finger style. According to banjoist and historian Tony Trischka, "Jenkins came about as close as one could to Scruggs style without actually playing it".'
 
@@ -140,12 +141,12 @@ The fiddle was originally the main instrument, and Neil Gow is credited with dev
 * Popularized by Davy Graham - 1960's
 
 D–A–D–G–A–D  - Modal Playing --> Dulcimer
-	* John Renbourn
-	* Bert Jansch 
-	* Stefan Grossman
-		* Folk Revival - '60
+* John Renbourn
+* Bert Jansch 
+* Stefan Grossman
+	* Folk Revival - '60
 
-Folk / Country Blues  - '60s
+# Folk / Country Blues  - '60s
 - Elizabeth Cotten
 - Big Bill Broonzy
 - Lead Belly
@@ -180,8 +181,8 @@ Civil War - Ministrel both side
 * Banjo 
 
 Elevated Banjo status -
-	* Parlor 
-	* College 
+* Parlor 
+* College 
 
 Reinvented Banjo - Classic
 
