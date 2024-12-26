@@ -1562,7 +1562,7 @@
       <links>
         <slidelink slideid="_player.6gpcseX2uHZ" displaytext="Landing-Page" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6gpcseX2uHZ.6RYO3d0fO4M" displaytext="Landing-Page" expand="false" type="slide" />
+            <slidelink slideid="_player.6gpcseX2uHZ.6RYO3d0fO4M" displaytext="Introduction" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6DnkMVkjd74" displaytext="Instruments" expand="true" type="slide">
@@ -1570,14 +1570,14 @@
             <slidelink slideid="_player.6DnkMVkjd74.5cNejg51DtU" displaytext="Instruments" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.63MZbJYLEbb" displaytext="Elements" expand="true" type="slide">
+        <slidelink slideid="_player.63MZbJYLEbb" displaytext="Ethnomusicology" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.63MZbJYLEbb.6EPBlj2OsQD" displaytext="Elements" expand="false" type="slide" />
+            <slidelink slideid="_player.63MZbJYLEbb.6EPBlj2OsQD" displaytext="Influences" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6HZdRu9fDfo" displaytext="History" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6HZdRu9fDfo.5ayoZxQF0Yn" displaytext="History" expand="false" type="slide" />
+            <slidelink slideid="_player.6HZdRu9fDfo.5ayoZxQF0Yn" displaytext="Music of Appalachia" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
