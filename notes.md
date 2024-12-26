@@ -1,3 +1,9 @@
+[Music of our Mountain](https://musicofourmountains.com/)
+
+
+
+
+
 ## Artists to focus 
 ### Doc Watson 
 * North Carolina
@@ -197,11 +203,32 @@ Southern Virginia / North Carolina
 * Spinning weaving 
 
 Charlie and Posey 
-	Honey have a drink on me 
+* [Posey Rorer](https://musicofourmountains.com/posey-rorer/)
+* [Charlie Poole](https://musicofourmountains.com/charlie-poole/)
+
+Honey have a drink on me 
 1925 - Don't let your deal go down
 
+“Don’t Let Your Deal Go Down Blues”
+“Can I Sleep In Your Barn Tonight Mister”
+“The Girl I Left In Sunny Tennessee”
+“I’m the Man That Rode The Mule ‘Round The World,"
+“Don’t Let Your Deal Go Down Blues” 
+“White House Blues”
+“If I Lose”
+“Sweet Sunny South,”
+“Goodbye Mary Dear,”
+“Budded Rose,”
+“There’ll Come A Time,”
+“Milwaukee Blues,”
+“Leavin’ Home”
+“Footprints in the Snow,”
+“I’ll Roll In My Sweet Baby’s Arms”
+
 North Carolina Ramblers
-* 
+* Posey Rorer, Charlie Poole and Norman Woodlieff
+
+The North Carolina Ramblers
 
 1930 - Depression 
 
@@ -212,13 +239,13 @@ Eddie Peabody -
 --> Drink himself to death 
 
 Helps pave the way for Bluegrass
-
+-------------------------------------------
 1936 - PETE SEEGER 
 * 5 string 
 
- Mountain Dance and Folk Festival and Shindig on the Green.
-* Save old mountain music - Ashville 
-Bascom Lamar Lunsford 
+Mountain Dance and Folk Festival and Shindig on the Green.
+* Save old mountain music - Ashville, NC
+* Bascom Lamar Lunsford 
 
 Woody Guthrie and Pete Seeger
 * Hitchhike around 
@@ -233,15 +260,14 @@ Woody Guthrie and Pete Seeger
 * Weaver's - communist party 
 * Black listed
 
-Public access 
-Folk
-Civil Rights
+Seeger Television Show
 
-World War II 
-Woody Guthrie 
-
-Pete Seeger 
-Adopts
+Advocates 
+* Public access 
+* Folk
+* Civil Rights
+* Copies Woody Guthrie Guitar label - World War II - slogan on banjo
+* Banjo - mainstream
 ---
 
 
@@ -373,17 +399,45 @@ RENAISSANCE
 Lost Highway: the story of Country Music (Episode I - Down from the Mountain)
 
 ---- 
-1927 - 1941
-300 Songs 
-Bedrock of Country Music
-Carter Family 
+## Carter Family
+* 1927 - 1941 
+* 300 Songs 
+* Bedrock of Country Music
+
+#### Beginnings - Carter Family 
 1926 - Microphone in the field 
 Peer - 
 Capture - Mountain Music 
 Southern Mountain Music 
 
-Bristol Sessions 
-Clinch Mountain 
+> "Between 1924 and 1934 Stoneman recorded both solo and with a full band that often included his family members. It was Stoneman who suggested to Victor A & R director Ralph Peer that he hold a field recording session at Bristol, Tennessee – the now famous Bristol Sessions – that produced the first recordings of the Carter Family of southwest Virginia along with Mississippi artist Jimmie Rodgers, the “Father Of Country Music.” At Bristol, in the summer of 1927, Stoneman cut fourteen sides while the Carters cut six sides and Rodgers only two. Stoneman’s recordings preserved a wide variety of songs and tunes including camp meeting songs, ballads and mountain dance tunes that are still played by old time bands in the region today." 
+
+[REFRENCE](https://musicofourmountains.com/a-fertile-crescent-the-blue-ridge-plateau-and-the-birth-of-county-music/)
+
+
+[1920s Field Recording](https://earthlymission.com/the-mikiphone-pocket-phonograph-from-1926/)
+
+[The Advent of Electrical Recording in the 1920s](https://www.youtube.com/watch?v=duGmuik1aMA&t=2s)
+
+#### Western Electric
+* WestElect Process
+	* Victor 
+	* Columbia
+* 1925 - Victor Records 
+
+* Records and Radio benefit
+
+
+
+
+#### Bristol Sessions 
+Clinch Mountain - Carters almost do not make the recording session 
+
+
+
+
+
+
 
 Bury me under the weeping willow 
 1927 
@@ -458,7 +512,8 @@ Family groups
 * O Death - Ralph Stanley 
 
 ---
-Church
+Church - Gospel
+
 Stanly Brother - Angel Band
 ---
 
