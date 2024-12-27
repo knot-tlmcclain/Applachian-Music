@@ -1569,16 +1569,33 @@
         <slidelink slideid="_player.6DnkMVkjd74" displaytext="Instruments" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6DnkMVkjd74.5cNejg51DtU" displaytext="Instruments" expand="false" type="slide" />
+            <slidelink slideid="_player.6DnkMVkjd74.5tqd4FKqIHI" displaytext="Banjo" expand="false" type="slide" />
+            <slidelink slideid="_player.6DnkMVkjd74.6iygtzM0UEI" displaytext="Dulcimer" expand="false" type="slide" />
+            <slidelink slideid="_player.6DnkMVkjd74.5ZxzRbF9guf" displaytext="Fiddle" expand="false" type="slide" />
+            <slidelink slideid="_player.6DnkMVkjd74.5hpJqJ05VkI" displaytext="Guitar" expand="false" type="slide" />
+            <slidelink slideid="_player.6DnkMVkjd74.6DNPxFRe4FB" displaytext="Jaw Harp" expand="false" type="slide" />
+            <slidelink slideid="_player.6DnkMVkjd74.68v4O6QujjQ" displaytext="Mandolin" expand="false" type="slide" />
+            <slidelink slideid="_player.6DnkMVkjd74.5y750IuWtsH" displaytext="Spoons" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.63MZbJYLEbb" displaytext="Ethnomusicology" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.63MZbJYLEbb.6EPBlj2OsQD" displaytext="Influences" expand="false" type="slide" />
+            <slidelink slideid="_player.63MZbJYLEbb.6EPBlj2OsQD" displaytext="Roots" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6HZdRu9fDfo" displaytext="History" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6HZdRu9fDfo.5ayoZxQF0Yn" displaytext="Music of Appalachia" expand="false" type="slide" />
+            <slidelink slideid="_player.6HZdRu9fDfo.5ayoZxQF0Yn" displaytext="History" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5jTy1Z2BQ7Q" displaytext="Performers" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5jTy1Z2BQ7Q.6TUFFsAygiS" displaytext="Performers" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5UxmPEEtrqn" displaytext="Timeline" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5UxmPEEtrqn.6j7yWMZfDD7" displaytext="Timeline" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
