@@ -1,7 +1,15 @@
+# Quote for Appalachia
+
+Ulack, Richard and Karl Raitz. 1981. "Appalachia: A Comparison of the Cognitive and Appalachian Regional Commission Regions". Southeastern Geographer 21:1, pp. 40-53.
+
+[Reference - Map](https://artsandsciences.sc.edu/appalachianenglish/node/783)
+
+
+
+
+---
+
 [Music of our Mountain](https://musicofourmountains.com/)
-
-
-
 
 
 ## Artists to focus 
