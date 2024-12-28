@@ -217,21 +217,21 @@ Charlie and Posey
 Honey have a drink on me 
 1925 - Don't let your deal go down
 
-“Don’t Let Your Deal Go Down Blues”
-“Can I Sleep In Your Barn Tonight Mister”
-“The Girl I Left In Sunny Tennessee”
-“I’m the Man That Rode The Mule ‘Round The World,"
-“Don’t Let Your Deal Go Down Blues” 
-“White House Blues”
-“If I Lose”
-“Sweet Sunny South,”
-“Goodbye Mary Dear,”
-“Budded Rose,”
-“There’ll Come A Time,”
-“Milwaukee Blues,”
-“Leavin’ Home”
-“Footprints in the Snow,”
-“I’ll Roll In My Sweet Baby’s Arms”
+* “Don’t Let Your Deal Go Down Blues”
+* “Can I Sleep In Your Barn Tonight Mister”
+* “The Girl I Left In Sunny Tennessee”
+* “I’m the Man That Rode The Mule ‘Round The World,"
+* “Don’t Let Your Deal Go Down Blues” 
+* “White House Blues”
+* “If I Lose”
+* “Sweet Sunny South,”
+* “Goodbye Mary Dear,”
+* “Budded Rose,”
+* “There’ll Come A Time,”
+* “Milwaukee Blues,”
+* “Leavin’ Home”
+* “Footprints in the Snow,”
+* “I’ll Roll In My Sweet Baby’s Arms”
 
 North Carolina Ramblers
 * Posey Rorer, Charlie Poole and Norman Woodlieff
