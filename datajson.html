@@ -30,6 +30,7 @@ function fetchJSONData() {
 		rs += '   <div class="col-md-3"><h4>Instrument</h4></div>';
 		rs += '   <div class="col-md-3"><h4>Music Genre</h4></div>';
 		rs += '</div>';
+		rs += '<div class="row"><div class="col-md-12"><h4>Profile</h4></div></div>';
 		for(i=0;i<data.length;i++) {
 			rs += '<div class="row">';
 			rs += '   <div class="col-md-3">' + data[i].performer + '</div>';
@@ -37,6 +38,9 @@ function fetchJSONData() {
 			rs += '   <div class="col-md-3">' + data[i].instrument + '</div>';
 			rs += '   <div class="col-md-3">' + data[i].musicgenre + '</div>';
 			rs += '</div>';
+			rs += '<div class="row">';
+			rs += '   <div class="col-md-12">' + data[i].musicprofile + '</div>';			
+			rs += '</div>';			
 		} 
 		document.getElementById("recordset").innerHTML = rs;
 	})
