@@ -1,14 +1,86 @@
 [
-	{"performer":"Doc Watson","origin":"North Carolina","instrument":"Guitar","musicgenre":"Old Time","musicprofile":"Flat picking"},
-	{"performer":"Roscoe Holcomb","origin":"North Carolina","instrument":"Banjo","musicgenre":"Old Time","musicprofile":"Clawhammer"},
-	{"performer":"Clarence Ashley","origin":"North Carolina","instrument":"Banjo","musicgenre":"Old Time","musicprofile":"Clawhammer"},
-	{"performer":"Doc Boggs","origin":"Southern Virginia","instrument":"Banjo","musicgenre":"Old Time","musicprofile":"Clawhammer"},
-	{"performer":"Merle Travis","origin":"Kentucky","instrument":"Guitar","musicgenre":"Country","musicprofile":"Travis style picking"},
-	{"performer":"Earl Scruggs","origin":"North Carolina","instrument":"Banjo","musicgenre":"Bluegrass","musicprofile":"Scruggs style picking - Father of Bluegrass Banjo"},
-	{"performer":"Charlie Poole","origin":"Southern Virginia - North Carolina","instrument":"Banjo","musicgenre":"Old Time, Bluegrass","musicprofile":"Clawhammer"},
-	{"performer":"Posey Rorer","origin":"Southern Virginia - North Carolina","instrument":"Fiddle","musicgenre":"Old Time, Bluegrass","musicprofile":"Depression era playing"},
-	{"performer":"Jean Ritchie","origin":"Western Kentucky","instrument":"Mountain Dulcimer","musicgenre":"Old Time, Folk","musicprofile":"Dulcimer"},
-	{"performer":"Carter Family","origin":"Virgina","instrument":"Guitar, Autoharp","musicgenre":"Old Time, Folk, Country","musicprofile":"Foundation for country music, proliferation of mountain music"},
-	{"performer":"Pete Seeger","origin":"New York City, New York","instrument":"Banjo","musicgenre":"Old Time, Folk","musicprofile":"Clawhammer - proliferation of folk music - folk revival"},
-	{"performer":"Bill Monroe","origin":"Kentucky","instrument":"Mandolin","musicgenre":"Bluegrass","musicprofile":"High Lonesome Sound - Father of Bluegrass"}
+	{
+		"performer":"Doc Watson",
+		"origin":"North Carolina",
+		"instrument":"Guitar",
+		"musicgenre":"Old Time",
+		"musicprofile":"Flat picking"
+	},
+	{
+		"performer":"Roscoe Holcomb",
+		"origin":"North Carolina",
+		"instrument":"Banjo",
+		"musicgenre":"Old Time",
+		"musicprofile":"Clawhammer"
+	},
+	{
+		"performer":"Clarence Ashley",
+		"origin":"North Carolina",
+		"instrument":"Banjo",
+		"musicgenre":"Old Time",
+		"musicprofile":"Clawhammer"
+	},
+	{
+		"performer":"Doc Boggs",
+		"origin":"Southern Virginia",
+		"instrument":"Banjo",
+		"musicgenre":"Old Time",
+		"musicprofile":"Clawhammer"
+	},
+	{
+		"performer":"Merle Travis",
+		"origin":"Kentucky",
+		"instrument":"Guitar",
+		"musicgenre":"Country",
+		"musicprofile":"Travis style picking"
+	},
+	{
+		"performer":"Earl Scruggs",
+		"origin":"North Carolina",
+		"instrument":"Banjo",
+		"musicgenre":"Bluegrass",
+		"musicprofile":"Scruggs style picking - Father of Bluegrass Banjo"
+	},
+	{
+		"performer":"Charlie Poole",
+		"origin":"Southern Virginia - North Carolina",
+		"instrument":"Banjo",
+		"musicgenre":"Old Time, Bluegrass",
+		"musicprofile":"Clawhammer"
+	},
+	{
+		"performer":"Posey Rorer",
+		"origin":"Southern Virginia - North Carolina",
+		"instrument":"Fiddle",
+		"musicgenre":"Old Time, Bluegrass",
+		"musicprofile":"Depression era playing"
+	},
+	{
+		"performer":"Jean Ritchie",
+		"origin":"Western Kentucky",
+		"instrument":"Mountain Dulcimer",
+		"musicgenre":"Old Time, Folk",
+		"musicprofile":"Dulcimer"
+	},
+	{
+		"performer":"Carter Family",
+		"origin":"Virgina",
+		"instrument":"Guitar, Autoharp",
+		"musicgenre":"Old Time, Folk, Country",
+		"musicprofile":"Foundation for country music, proliferation of mountain music"
+	},
+	{
+		"performer":"Pete Seeger",
+		"origin":"New York City, New York",
+		"instrument":"Banjo",
+		"musicgenre":"Old Time, Folk",
+		"musicprofile":"Clawhammer - proliferation of folk music - folk revival"
+	},
+	{
+		"performer":"Bill Monroe",
+		"origin":"Kentucky",
+		"instrument":"Mandolin",
+		"musicgenre":"Bluegrass",
+		"musicprofile":"High Lonesome Sound - Father of Bluegrass"
+	}
 ]
