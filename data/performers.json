@@ -21,6 +21,13 @@
 		"musicprofile":"Clawhammer"
 	},
 	{
+		"performer":"Uncle Dave Macon",
+		"origin":"Tennessee",
+		"instrument":"Banjo",
+		"musicgenre":"Old Time",
+		"musicprofile":"Clawhammer"
+	},
+	{
 		"performer":"Doc Boggs",
 		"origin":"Southern Virginia",
 		"instrument":"Banjo",
@@ -46,7 +53,7 @@
 		"origin":"Southern Virginia - North Carolina",
 		"instrument":"Banjo",
 		"musicgenre":"Old Time, Bluegrass",
-		"musicprofile":"Clawhammer"
+		"musicprofile":"Clawhammer - Depression era playing"
 	},
 	{
 		"performer":"Posey Rorer",
