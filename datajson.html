@@ -39,7 +39,7 @@ function fetchJSONData() {
 			rs += '   <div class="col-md-3">' + data[i].musicgenre + '</div>';
 			rs += '</div>';
 			rs += '<div class="row">';
-			rs += '   <div class="col-md-12">' + data[i].musicprofile + '</div>';			
+			rs += '   <div class="col-md-12"><b>Notes:</b>' + data[i].musicprofile + '</div>';			
 			rs += '</div>';			
 		} 
 		document.getElementById("recordset").innerHTML = rs;
