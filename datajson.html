@@ -11,7 +11,7 @@
 <hr>
 <script>
 function fetchJSONData() {
-	fetch("./data/performers.json").then((res) => {
+	fetch("data/performers.json").then((res) => {
 		if (!res.ok) {
 			throw new Error(`HTTP error! Status: ${res.status}`);
         }
