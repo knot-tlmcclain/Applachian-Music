@@ -1,6 +1,12 @@
 [
-	{"performer":"Doc Watson","origin":"North Carolina","musicgenre":"Old Time"},
-	{"performer":"Roscoe Holcomb","origin":"North Carolina","musicgenre":"Old Time"},
-	{"performer":"Clarence Ashley","origin":"North Carolina","musicgenre":"Old Time"},
-	{"performer":"Bill Monroe","origin":"Kentucky","musicgenre":"Bluegrass"}
+	{"performer":"Doc Watson","origin":"North Carolina","instrument":"Guitar","musicgenre":"Old Time"},
+	{"performer":"Roscoe Holcomb","origin":"North Carolina","instrument":"Banjo","musicgenre":"Old Time"},
+	{"performer":"Clarence Ashley","origin":"North Carolina","instrument":"Banjo","musicgenre":"Old Time"},
+	{"performer":"Doc Boggs","origin":"Unknown","instrument":"Banjo","musicgenre":"Old Time"},
+	{"performer":"Merle Travis","origin":"Kentucky","instrument":"Guitar","musicgenre":"Country"},
+	{"performer":"Earl Scruggs","origin":"North Carolina","instrument":"Banjo","musicgenre":"Bluegrass"},
+	{"performer":"Charlie Poole","origin":"Southern Virginia - North Carolina","instrument":"Banjo","musicgenre":"Old Time, Bluegrass"},
+	{"performer":"Posey Rorer","origin":"Southern Virginia - North Carolina","instrument":"Fiddle","musicgenre":"Old Time, Bluegrass"},
+	{"performer":"Jean Ritchie","origin":"Western Kentucky","instrument":"Mountain Dulcimer","musicgenre":"Old Time, Folk"},
+	{"performer":"Bill Monroe","origin":"Kentucky","instrument":"Mandolin","musicgenre":"Bluegrass"}
 ]
