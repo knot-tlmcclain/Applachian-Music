@@ -10,9 +10,17 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			Select Performers
+			<h1>Featured Performers</h1>
 		</div>
 	</div>
+	<div class="row"><div class="col-md-12"><h2>Performer Name</h2></div></div>	
+	<div class="row">
+		<div class="col-md-3"><h4>Origin</h4></div>
+		<div class="col-md-3"><h4>Instrument</h4></div>
+		<div class="col-md-3"><h4>Music Genre</h4></div>
+		<div class="col-md-3"><h4>Additional Info</h4></div>
+	</div>
+	<div class="row"><div class="col-md-12"><h4>Profile</h4></div></div>
 	<div id="recordset"></div>
 </div>
 <script>
@@ -24,19 +32,16 @@ function fetchJSONData() {
         return res.json();
 	})
     .then((data) => {
-		rs =  '<div class="row">';
-		rs += '   <div class="col-md-3"><h4>Performer Name</h4></div>';
-		rs += '   <div class="col-md-3"><h4>Origin</h4></div>';
-		rs += '   <div class="col-md-3"><h4>Instrument</h4></div>';
-		rs += '   <div class="col-md-3"><h4>Music Genre</h4></div>';
-		rs += '</div>';
-		rs += '<div class="row"><div class="col-md-12"><h4>Profile</h4></div></div>';
+		rs =  '<!-- return data--> ';
 		for(i=0;i<data.length;i++) {
 			rs += '<div class="row">';
-			rs += '   <div class="col-md-3">' + data[i].performer + '</div>';
+			rs += '   <div class="col-md-12"><h2>' + data[i].performer + '</h2></div>';			
+			rs += '</div>';	
+			rs += '<div class="row">';
 			rs += '   <div class="col-md-3">' + data[i].origin + '</div>';
 			rs += '   <div class="col-md-3">' + data[i].instrument + '</div>';
 			rs += '   <div class="col-md-3">' + data[i].musicgenre + '</div>';
+			rs += '   <div class="col-md-3">Additional Information</div>';			
 			rs += '</div>';
 			rs += '<div class="row">';
 			rs += '   <div class="col-md-12"><p><b>Notes:</b></p>' + data[i].musicprofile + '</div>';			
