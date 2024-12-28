@@ -17,7 +17,7 @@
 </div>
 <script>
 function fetchJSONData() {
-	fetch("data/performers.json").then((res) => {
+	fetch("/Applachian-Music/data/performers.json").then((res) => {
 		if (!res.ok) {
 			throw new Error(`HTTP error! Status: ${res.status}`);
         }
