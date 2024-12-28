@@ -25,15 +25,17 @@ function fetchJSONData() {
 	})
     .then((data) => {
 		rs =  '<div class="row">';
-		rs += '   <div class="col-md-4"><h4>Performer Name</h4></div>';
-		rs += '   <div class="col-md-4"><h4>Origin</h4></div>';
-		rs += '   <div class="col-md-4"><h4>Music Genre</h4></div>';
+		rs += '   <div class="col-md-3"><h4>Performer Name</h4></div>';
+		rs += '   <div class="col-md-3"><h4>Origin</h4></div>';
+		rs += '   <div class="col-md-3"><h4>Instrument</h4></div>';
+		rs += '   <div class="col-md-3"><h4>Music Genre</h4></div>';
 		rs += '</div>';
 		for(i=0;i<data.length;i++) {
 			rs += '<div class="row">';
-			rs += '   <div class="col-md-4">' + data[i].performer + '</div>';
-			rs += '   <div class="col-md-4">' + data[i].origin + '</div>';
-			rs += '   <div class="col-md-4">' + data[i].musicgenre + '</div>';
+			rs += '   <div class="col-md-3">' + data[i].performer + '</div>';
+			rs += '   <div class="col-md-3">' + data[i].origin + '</div>';
+			rs += '   <div class="col-md-3">' + data[i].instrument + '</div>';
+			rs += '   <div class="col-md-3">' + data[i].musicgenre + '</div>';
 			rs += '</div>';
 		} 
 		document.getElementById("recordset").innerHTML = rs;
