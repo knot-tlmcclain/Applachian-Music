@@ -8,10 +8,9 @@
 </head>
 <body>
 <div class="container">
-	<div class="row row-cols-1 row-cols-md-3 g-4">
-			<div id="recordset"></div>
-	</div>
+	<div id="recordset"></div>
 </div>
+
 <script>
 function fetchJSONData() {
 	// lead slash Applachian-Music
@@ -22,25 +21,30 @@ function fetchJSONData() {
         return res.json();
 	})
     .then((data) => {
-		rs =  '';
+    	rs =  '';
 		for(i=0;i<data.length;i++) {
-			rs += '<div class="col">';
+			if(i%3==0){
+				rs += '<div class="row">';
+			}
+			rs += '<div class="col-md-4">';
 			rs += '		<div class="card h-100">';
-			rs += '			<img src="..." class="card-img-top" alt="...">';
+			rs += '			<img style="width:200px;height:auto;" src="../images/banjo-image-2.png" class="card-img-top" alt="Decorative Banjo">';
 			rs += '			<div class="card-body">';
 			rs += '				<h5 class="card-title">' + data[i].performer + '</h5>';	
 			rs += '				<p class="card-text">';
 			rs += '					<b>Origin:</b>' + data[i].origin + '<br>';
 			rs += '					<b>Instruments:</b>' + data[i].instrument + '<br>';
 			rs += '					<p><b>Profile:</b><br>' + data[i].musicprofile + '</p>';
-			rs += '					<b>Origin:</b>' + data[i].origin + '<br>';
 			rs += '				</p>';	
 			rs += '			</div>';	
 			rs += '			<div class="card-footer">';
 			rs += '				<small class="text-body-secondary"><b>Music Genre:</b>' + data[i].musicgenre + '</small>';
-			rs += '			</div>';			
+			rs += '			</div>';	
 			rs += '		</div>';
-			rs += '</div>';		
+			rs += '</div>';	
+			if(i%3==2) {
+				rs += '</div>';
+			}
 		} 
 		document.getElementById("recordset").innerHTML = rs;
 	})
