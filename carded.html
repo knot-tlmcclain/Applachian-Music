@@ -8,35 +8,32 @@
 </head>
 <body>
 <div class="container">
-	<div class="row">
-		<div class="col-md-12">
-			<h1>Featured Performers</h1>
-		</div>
 	<div class="row row-cols-1 row-cols-md-3 g-4">
-		<div id="recordset"></div>
+			<div id="recordset"></div>
 	</div>
 </div>
 <script>
 function fetchJSONData() {
-	fetch("/Applachian-Music/data/performers.json").then((res) => {
+	// lead slash Applachian-Music
+	fetch("../data/performers.json").then((res) => {
 		if (!res.ok) {
 			throw new Error(`HTTP error! Status: ${res.status}`);
         }
         return res.json();
 	})
     .then((data) => {
-		rs =  '<!-- return data-->';
+		rs =  '';
 		for(i=0;i<data.length;i++) {
 			rs += '<div class="col">';
 			rs += '		<div class="card h-100">';
-			rs += '		<img src="..." class="card-img-top" alt="...">';
+			rs += '			<img src="..." class="card-img-top" alt="...">';
 			rs += '			<div class="card-body">';
 			rs += '				<h5 class="card-title">' + data[i].performer + '</h5>';	
 			rs += '				<p class="card-text">';
-			rs += '				<b>Origin:</b>' + data[i].origin + '<br/>';
-			rs += '				<b>Instruments:</b>' + data[i].instrument + '<br/>';
-			rs += '				<b>Profile:</b><br/>' + data[i].musicprofile + '<br/>';
-			rs += '				<b>Origin:</b>' + data[i].origin + '<br/>';
+			rs += '					<b>Origin:</b>' + data[i].origin + '<br>';
+			rs += '					<b>Instruments:</b>' + data[i].instrument + '<br>';
+			rs += '					<p><b>Profile:</b><br>' + data[i].musicprofile + '</p>';
+			rs += '					<b>Origin:</b>' + data[i].origin + '<br>';
 			rs += '				</p>';	
 			rs += '			</div>';	
 			rs += '			<div class="card-footer">';
