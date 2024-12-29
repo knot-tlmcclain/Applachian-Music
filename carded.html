@@ -25,11 +25,11 @@ function fetchJSONData() {
         return res.json();
 	})
     .then((data) => {
-		rs =  '<!-- return data--> ';
+		rs =  '<!-- return data-->';
 		for(i=0;i<data.length;i++) {
 			rs += '<div class="col">';
-			rs += '    <div class="card h-100">';
-			rs += '     	<img src="..." class="card-img-top" alt="...">';
+			rs += '		<div class="card h-100">';
+			rs += '		<img src="..." class="card-img-top" alt="...">';
 			rs += '			<div class="card-body">';
 			rs += '				<h5 class="card-title">' + data[i].performer + '</h5>';	
 			rs += '				<p class="card-text">';
@@ -37,12 +37,12 @@ function fetchJSONData() {
 			rs += '				Instruments:' + data[i].instrument + '<br/>';
 			rs += '				Profile:<br/>' + data[i].musicprofile + '<br/>';
 			rs += '				Origin:' + data[i].origin + '<br/>';
-			rs += '			    </p>';	
-			rs += '  	   </div>';	
-			rs += '   	  <div class="card-footer">';
-			rs += '			<small class="text-body-secondary">' + data[i].musicgenre + '</small>';
-			rs += '		 </div>';			
-			rs += '	  </div>';
+			rs += '				</p>';	
+			rs += '			</div>';	
+			rs += '			<div class="card-footer">';
+			rs += '				<small class="text-body-secondary">' + data[i].musicgenre + '</small>';
+			rs += '			</div>';			
+			rs += '		</div>';
 			rs += '</div>';		
 		} 
 		document.getElementById("recordset").innerHTML = rs;
