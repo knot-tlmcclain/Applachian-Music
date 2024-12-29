@@ -13,8 +13,9 @@
 
 <script>
 function fetchJSONData() {
-	// lead slash Applachian-Music
-	fetch("../data/performers.json").then((res) => {
+	// lead slash [Applachian-Music]
+	// local data - ..slash data
+	fetch("/Appalachian-Music/data/performers.json").then((res) => {
 		if (!res.ok) {
 			throw new Error(`HTTP error! Status: ${res.status}`);
         }
